@@ -67,7 +67,7 @@ npm run build     # Build for production
 npm run preview   # Preview the production build
 ```
 
-## 📜 License
+
 
 MIT – use it freely for your dashboards, startups, or portfolio projects.
 
